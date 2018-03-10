@@ -17,6 +17,7 @@
 
 ## 编程基础
 
+* 英语
 * C/C++
 * Javascript
 * Java
