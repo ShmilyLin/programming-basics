@@ -1,4 +1,4 @@
-# <img src="resource/programmingbasics.png" alt="Logo" width="40" height="40" /> Programming Basics
+# <img src="./resource/programmingbasics.png" alt="Logo" width="40" height="40" /> Programming Basics
 
 零基础学习编程开发基础笔记
 
