@@ -1,6 +1,6 @@
 # <img src="resources/code-base.png" alt="Flutter" width="40" height="40" /> Programming Basics
 
-零基础学习编程开发基础
+零基础学习编程开发基础笔记
 
 ## 数学
 
@@ -12,7 +12,7 @@
 
 * 数据结构
 * 计算机操作系统
-* 计算机网络（TCP/IP）
+* [计算机网络（TCP/IP）](计算机网络/)
 * 计算机组成原理
 
 ## 编程基础
