@@ -22,7 +22,7 @@ $ git clone -b beta https://github.com/flutter/flutter.git
 $ export PATH=`pwd`/flutter/bin:$PATH
 ```
 
-上述命令为当前的终端窗口设置临时PATH变量。要将Flutter永久添加到PATH中，请参阅[更新你的PATH]()。
+上述命令为当前的终端窗口设置临时PATH变量。要将Flutter永久添加到PATH中，请参阅[更新你的PATH](#更新你的PATH)。
 
 要更新现有版本的Flutter，请参阅[升级Flutter]()。
 
@@ -48,7 +48,7 @@ $ flutter doctor
 
 第一次运行flutter命令（如`flutter doctor`）时，它会下载自己的依赖关系并自行编译。后续运行应该将会快得多。
 
-以下各节将介绍如何执行这些任务并完成设置过程。如果你选择使用IDE，你会看到`flutter doctor`会显示可用于IntelliJ IDEA、Android Studio和VS Code的插件。请参阅[编辑器设置](https://juejin.im/post/5a97c1a6518825556a71cf11)以了解安装Flutter和Dart插件的步骤。
+以下各节将介绍如何执行这些任务并完成设置过程。如果你选择使用IDE，你会看到`flutter doctor`会显示可用于IntelliJ IDEA、Android Studio和VS Code的插件。请参阅[配置编辑器]([Flutter]开始使用-配置编辑器.md)以了解安装Flutter和Dart插件的步骤。
 
 你安装了所有缺失的依赖关系后，请再次运行`flutter doctor`命令来验证你是否已经设置正确。
 
@@ -82,7 +82,7 @@ echo $PATH
 
 使用`flutter`命令行工具，你可以使用任何编辑器来开发Flutter应用。在提示中输入`flutter help`可以查看可用工具。
 
-我们建议在编写、运行、调试Flutter应用时使用我们的插件以获得[丰富的IDE体验](https://flutter.io/using-ide/)。查看[编辑器设置](https://juejin.im/post/5a97c1a6518825556a71cf11)获得更多详细步骤。
+我们建议在编写、运行、调试Flutter应用时使用我们的插件以获得[丰富的IDE体验](https://flutter.io/using-ide/)。查看[配置编辑器]([Flutter]开始使用-配置编辑器.md)获得更多详细步骤。
 
 ## 平台设置
 
@@ -188,4 +188,4 @@ Flutter需要安装并配置Android Studio：
 ---
 ## Next
 
-[[Flutter]开始使用：配置编辑器]()
+[[Flutter]开始使用：配置编辑器]([Flutter]开始使用-配置编辑器.md)

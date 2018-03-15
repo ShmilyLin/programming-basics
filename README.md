@@ -32,7 +32,7 @@
 * Android(kotlin)
 * HTML5(js+css+jq)
 * Go
-* Flutter(iOS+Android+Fuchsia)
+* [Flutter(iOS+Android+Fuchsia)](Flutter/)
 * PHP
 * Python
 * PC(C++)
