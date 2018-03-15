@@ -139,17 +139,17 @@ $ pod setup
     3. `Runner` target设置页面，确保在**General > Signing > Team**下你的开发团队是被选中的。当你选择一个团队，Xcode会创建并下载开发证书，并在你的账号中注册你的设备，然后创建并下载一个描述文件（如果需要的话）。
         * 要开始你的第一个iOS开发项目，你可能需要使用你的Apple ID登录Xcode。
 
-        ![设置开发团队](https://user-gold-cdn.xitu.io/2018/3/1/161e0630a728a48d?w=720&h=384&f=png&s=83179)
+        ![设置开发团队](https://flutter.io/images/setup/xcode-account.png)
 
         任何Apple ID都支持开发和测试。如果你想将你的应用上架到App Store，则需要注册Apple开发者计划才可以。查看[不同Apple会员类型之间的区别](https://developer.apple.com/support/compare-memberships)。
         * 当你第一次使用其他的物理设备进行iOS开发时，你需要同时在设备上信任Mac和开发证书。首次将iOS设备连接到Mac时，会弹出一个对话框，在对话框中选择信任即可。
 
-        ![信任Mac](https://user-gold-cdn.xitu.io/2018/3/1/161e068732a383db?w=341&h=250&f=png&s=95278)
+        ![信任Mac](https://flutter.io/images/setup/trust-computer.png)
 
         然后去iOS设备上设置应用程序，**General > Device Management**下选择信任你的证书。
         * 如果Xcode中的自动签名失败，请验证项目中的**General> Identity> Bundle Identifier**下的值是否唯一。
 
-        ![](https://user-gold-cdn.xitu.io/2018/3/1/161e06bc737a25b1?w=720&h=464&f=png&s=113336)
+        ![](https://flutter.io/images/setup/xcode-unique-bundle-id.png)
     2. 运行`flutter run`来启动你的应用。
 
 ## Android设置

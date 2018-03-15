@@ -6,3 +6,4 @@
 
 * [开始：在macOS上安装]([Flutter]开始-在macOS上安装.md)
 * [[Flutter]开始使用：配置编辑器]([Flutter]开始使用-配置编辑器.md)
+* [[Flutter]启动：调试运行]([Flutter]启动-调试运行.md)
